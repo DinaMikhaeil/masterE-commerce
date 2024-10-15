@@ -133,3 +133,4 @@ Released under the [MIT License](https://github.com/emonney/QuickApp/blob/master
 ### _**If you found this template useful, please take a minute to [rate it](https://marketplace.visualstudio.com/items?itemName=adentum.QuickApp-ASPNETCoreAngularXProjectTemplate#review-details). Appreciated!**_
 "# masterE-commerce" 
 "# masterE-commerce" 
+"# QuickAppAngular" 
