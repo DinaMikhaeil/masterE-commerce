@@ -134,3 +134,4 @@ Released under the [MIT License](https://github.com/emonney/QuickApp/blob/master
 "# masterE-commerce" 
 "# masterE-commerce" 
 "# QuickAppAngular" 
+"# anular-Dotnet8" 
